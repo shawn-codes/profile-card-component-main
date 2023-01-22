@@ -23,7 +23,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Github](https://github.com/shawn-codes/profile-card-component-main)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://63cda8c3eaa561777c83d81e--preeminent-gecko-61ebe7.netlify.app)
 
 ### Built with
 
